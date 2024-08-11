@@ -6,5 +6,6 @@ body {
 }
 h1 {
     color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 3.5rem;
 }
